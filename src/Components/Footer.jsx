@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="bg-[#353448] relative px-5 flex flex-col gap-5 text-white/80 text-center items-center">
+    <footer className="bg-[#353448] overflow-x-hidden relative px-5 flex flex-col gap-5 text-white/80 text-center items-center">
       <div className="pt-8 lg:pt-24 pb-[10rem] flex flex-col gap-3 lg:gap-7">
         <h1 className="text-[18px] lg:text-[24px] font-semibold">
           Subscribe to get notified about update
